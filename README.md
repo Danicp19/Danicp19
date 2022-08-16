@@ -1,10 +1,8 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Daniela Camargo</h1>
 <h3 align="center">A passionate Fullstack developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danicp19&label=Profile%20views&color=0e75b6&style=flat" alt="danicp19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danicp19" alt="danicp19" /></a> </p>
 
 - 🌱 I’m currently learning **Next and Tailwind**
 
