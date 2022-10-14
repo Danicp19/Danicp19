@@ -33,5 +33,3 @@ I’m currently learning **Next, Tailwind and TypeScript**
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danicp19&show_icons=true&locale=en&layout=compact" alt="danicp19" /></p>
-
