@@ -22,7 +22,7 @@ I’m currently learning **Next, Tailwind and TypeScript**
 <a href="https://css-drawing-danicp19.vercel.app/"><img alt='scr' src='https://raw.githubusercontent.com/Danicp19/CSS-drawing/main/pics/cake.gif' height="200" width="200"/></a>
 <br>
 <a href="https://weather-app-danicp19.vercel.app/"><img alt='scr' src='https://raw.githubusercontent.com/Danicp19/Weather-app/main/pics/weather.png' height="200" width="340"/></a> 
-<a href="https://ecommerce-lac-nu.vercel.app/"><img alt='scr' src='https://raw.githubusercontent.com/Danicp19/ECOMMERCE/main/pics/vimeo.gif' height="200" width="340"/></a>     <a href="https://pi-dogs-danicp19.vercel.app/"><img alt='scr' src='https://raw.githubusercontent.com/Danicp19/PI-DOGS/main/pics/dogs.gif' height="200" width="340"/></a>
+
 ##
 
 
