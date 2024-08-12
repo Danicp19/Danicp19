@@ -33,4 +33,4 @@ I’m currently learning **App Route-Next, Tailwind and TypeScript**
 </p>
 
 ##
-
+[![](https://visitcount.itsvg.in/api?id=Danicp19&label=Profile%20Views&color=11&icon=9&pretty=false)](https://visitcount.itsvg.in)
